@@ -1,0 +1,5 @@
+outs:
+- md5: 53839da46d6fc5c1ceb1de1dc00ef3f7
+  size: 135661279
+  hash: md5
+  path: cifar10_data.tar.gz
